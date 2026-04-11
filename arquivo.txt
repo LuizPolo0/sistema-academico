@@ -1,1 +1,2 @@
-Alteração direta na branch principal
+Teste de commit - resolvido conflito
+
